@@ -1,0 +1,38 @@
+{
+  "name": "endercrewbot",
+  "version": "1.0.0",
+  "description": "Simple Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ender3kP/EnderCrewBot.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "JavaScript"
+  ],
+  "author": "Ender3k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ender3kP/EnderCrewBot/issues"
+  },
+  "homepage": "https://github.com/ender3kP/EnderCrewBot#readme",
+  "dependencies": {
+    "@discordjs/voice": "^0.16.1",
+    "discord": "^0.8.2",
+    "discord-player": "^6.6.8",
+    "discord.js": "^14.14.1",
+    "discordjs-logger": "^4.0.1",
+    "js": "^0.1.0",
+    "opusscript": "^0.0.8",
+    "pino": "^7.0.0-rc.9",
+    "ytdl-core-discord": "^1.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  }
+}
